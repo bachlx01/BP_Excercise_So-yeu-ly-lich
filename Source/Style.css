@@ -1,0 +1,24 @@
+
+
+
+div{
+    border: 1px solid;
+}
+#header{
+    heigh: 200px;
+    width: 20%;
+}
+#tieu_de{
+    heigh: 600px;
+    width: 80%;
+    float: left;
+}
+#picture{
+    float: left;
+    width:20%;
+}
+
+
+
+
+

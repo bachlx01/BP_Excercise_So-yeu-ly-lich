@@ -1,0 +1,15 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    float: left;
+}
+.header {
+    width: 100%;
+    float: left;
+
+}
+
+.content {
+    width: 100%;
+    float: left;
+}
